@@ -1,2 +1,3 @@
 public files 
  i am writing more in file
+hi Jack this my first project 
